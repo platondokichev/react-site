@@ -1,0 +1,21 @@
+[
+    {
+      "Category": 1,
+      "name": "Керри",
+      "photos": ["https://avavatar.ru/images/original/2/eSZmUCqSevx68zke.jpg", "https://dota2.ru/img/heroes/axe/portrait.jpg", "https://dota2.ru/img/heroes/ursa/portrait.jpg", "https://cdn.akamai.steamstatic.com/apps/dota2/videos/dota_react/heroes/renders/shredder.png"],
+      "id": "1"
+    },
+    {
+      "Category": 2,
+      "name": "Саппорт",
+      "photos": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPauaKhM59bkFWau0SZV7ZcrJ6IEH5X70Grx4rl0QX_4eKeajBsVkwtVch1sGyNVn1i98&usqp=CAU", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSC8vsPz1I5AYPtI-yk8P6Z3NY7qwNGuwvqQ&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhyxzDhiQJkKSwSO9DhaOuipWx7Y2MmBQQiA&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzHHuyZjl4lG0nYMGDDgpEA7Xr_tGSmU7w5w&s"],
+      "id": "2"
+    },
+    {
+      "Category": 3,
+      "name": "Мид",
+      "photos": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYFkQeczVvxAzEOTokvWSXAeU9SDc6UkzyOg&s", "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb26TODAuvpkBTJqwtjo_7lU90Xody9qakYpX_9_4lquQVLeuoRhL_kcjIqExvogTEmPk&usqp=CAU", "https://png.klev.club/uploads/posts/2024-05/png-klev-club-uo2a-p-shtorm-spirit-png-1.png"],
+      "id": "3"
+    }
+]
+  

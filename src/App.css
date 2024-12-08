@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+/* App.css */
+header {
+  display: flex; /* Используем flexbox для выравнивания */
+  align-items: center; /* Центрируем элементы по вертикали */
+  justify-content: space-between; /* Распределяем пространство между элементами */
+  padding: 10px 20px; /* Отступы для удобства */
+}
+
+.header-left {
+  display: flex;
+  align-items: center; /* Центрируем элементы по вертикали */
+  flex-grow: 1; /* Позволяем этому блоку занимать все доступное пространство */
+}
+
+.logotype {
+  margin-right: 10px; /* Отступ между логотипом и кнопкой */
+  height: 110px; /* Установите нужный размер логотипа */
+}
+
+.anomaly-button {
+  font-family: 'Montserrat', sans-serif; /* Шрифт Montserrat */
+  color: orange; /* Цвет текста */
+  background: none; /* Убираем фон */
+  border: none; /* Убираем рамку */
+  cursor: pointer; /* Указатель при наведении */
+  font-size: 70px; /* Размер шрифта */
+  font-weight: bold; /* Жирный шрифт */
+  padding: 10px 20px; /* Отступы для кнопки */
+}
+
+.header-right {
+  display: flex; /* Используем flexbox для кнопок справа */
+}
+
+.menu {
+  font-family: 'Montserrat', sans-serif; /* Шрифт Montserrat */
+  color: black; /* Цвет текста */
+  font-size: 45px; /* Увеличьте размер шрифта для кнопок */
+  font-weight: bold; /* Жирный шрифт */
+  margin-left: 20px; /* Отступ между кнопками */
+  text-decoration: none; /* Убираем подчеркивание */
+  padding: 10px 20px; /* Добавляем отступы для удобства */
+  transition: color 0.3s; /* Плавный переход цвета */
+}
+
+.menu:hover {
+  color: orange; /* Цвет при наведении */
+}
+
+html, body {
+    height: 100%;
+    margin: 0;
+  }
+  
+  .container {
+    min-height: 100vh; /* Минимальная высота для контейнера */
+  }
+  
+  body {
+    background-image: url('./BG.jpg'); /* Путь к изображению */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+  }
+  
+  
+

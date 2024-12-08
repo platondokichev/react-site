@@ -1,0 +1,26 @@
+/* components/Review/Review.css */
+.reviews {
+    padding: 20px;
+  }
+  
+  .review {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+  }
+  
+  .avatar {
+    border-radius: 50%;
+    margin-right: 15px;
+  }
+  
+  .review-content {
+    background: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .rating {
+    color: #ffcc00; /* Цвет для звезд */
+  }
+  
